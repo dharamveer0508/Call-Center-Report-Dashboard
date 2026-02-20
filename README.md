@@ -106,5 +106,4 @@ Enabled better workforce planning, training strategies, and performance manageme
 📸 Screenshots
 
 Example:
-(Add your dashboard preview image link here, e.g.)
-Dashboard_Screenshot.png
+Dashboard_Screenshot.png](https://github.com/dharamveer0508/Call-Center-Report-Dashboard/blob/main/Excel_Dashboard_screenshot.png)
